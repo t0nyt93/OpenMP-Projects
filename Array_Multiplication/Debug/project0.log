@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\anthony\desktop\project0\project0\main.cpp(47): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\anthony\desktop\project0\project0\main.cpp(47): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\anthony\desktop\project0\project0\main.cpp(47): note: the missing variadic argument 2 is required by format string '%9s'
+  c:\users\anthony\desktop\project0\project0\main.cpp(47): note: this argument is used as a buffer size
+  LINK : C:\Users\Anthony\Desktop\project0\Debug\project0.exe not found or not built by the last incremental link; performing full link
+  project0.vcxproj -> C:\Users\Anthony\Desktop\project0\Debug\project0.exe

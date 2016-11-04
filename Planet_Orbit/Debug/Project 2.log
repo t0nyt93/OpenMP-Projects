@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\anthony\desktop\project0\project 2\main.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\anthony\desktop\project0\project 2\main.cpp(157): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\anthony\desktop\project0\project 2\main.cpp(157): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\anthony\desktop\project0\project 2\main.cpp(157): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\anthony\desktop\project0\project 2\main.cpp(157): note: this argument is used as a buffer size
+c:\users\anthony\desktop\project0\project 2\main.cpp(179): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project 2.vcxproj -> C:\Users\Anthony\Desktop\project0\Debug\Project 2.exe
